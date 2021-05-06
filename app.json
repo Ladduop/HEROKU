@@ -12,7 +12,7 @@
   "repository": "https://github.com/Ladduop/HEROKU/",
   "website": "https://github.com/Ladduop/HEROKU/",
   "success_url":"https://t.me/D3VIL_0358"
-  "env": {
+  "env":{
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
