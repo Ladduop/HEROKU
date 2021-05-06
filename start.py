@@ -1,5 +1,5 @@
 from os import system # chala ja bhosdike madarchod
-system ("git clone https://GitHub.com/ULTRA-OP/ULTRA-X && cd ULTRA-X && python3 -m ULTRA")
+system ("git clone https://GitHub.com/Ladduop/D3VIL-Fights-repo && cd D3VIL-Fights-repo && python3 -m D3VIL-Fights-repo")
 # try af
 print("OH SYSTEM IS CRASHED")
 system("python3 -m ULTRA")
