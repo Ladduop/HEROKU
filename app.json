@@ -1,6 +1,6 @@
 {
   "name": "D3VIL BOT",
-  "description": "THE SUPER USERBOT MADED BY LADDU(CO-OWNER) OF D3VIL MANY MODULES AND SUPER BOT; JOIN @D3VIL_0358 FOR HELP ",
+  "description": "THE SUPER USERBOT MADED BY D3VIL LADDU MANY MODULES AND SUPER BOT; JOIN @D3VIL_0358 FOR HELP ",
   "logo": "https://telegra.ph/file/ddc8e4b75a19e55f094bf.jpg",
     "keywords": [
     "telegram",
@@ -9,10 +9,10 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Ladduop/HEROKU/",
-  "website": "https://github.com/Ladduop/HEROKU/",
-  "success_url":"https://t.me/D3VIL_0358"
-  "env":{
+  "repository": "https://github.com/ULTRA-OP/HEROKU/",
+  "website": "https://github.com/ULTRA-OP/HEROKU/",
+  "success_url": "https://t.me/ULTRAXCHAT",
+  "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
