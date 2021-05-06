@@ -1,7 +1,7 @@
 {
-  "name": "ULTRA X",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
-  "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
+  "name": "D3VIL BOT",
+  "description": "THE SUPER USERBOT MADED BY LADDU(CO-OWNER) OF D3VIL MANY MODULES AND SUPER BOT; JOIN @D3VIL_0358 FOR HELP ",
+  "logo": "https://telegra.ph/file/ddc8e4b75a19e55f094bf.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/Ladduop/HEROKU/",
+  "website": "https://github.com/Ladduop/HEROKU/",
+  "success_url":"https://t.me/D3VIL_0358"
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
